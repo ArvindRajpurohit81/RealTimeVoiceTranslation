@@ -1,0 +1,24 @@
+PODS:
+  - InstantSearchVoiceOverlay (1.0.0)
+  - Socket.IO-Client-Swift (15.2.0):
+    - Starscream (~> 3.1)
+  - Starscream (3.1.1)
+
+DEPENDENCIES:
+  - InstantSearchVoiceOverlay (~> 1.0.0)
+  - Socket.IO-Client-Swift (~> 15.2.0)
+
+SPEC REPOS:
+  trunk:
+    - InstantSearchVoiceOverlay
+    - Socket.IO-Client-Swift
+    - Starscream
+
+SPEC CHECKSUMS:
+  InstantSearchVoiceOverlay: b34c48dcbf3191c0441642ba4f37547dbc77ffc7
+  Socket.IO-Client-Swift: 1e3e3a1f09f3312a167f0d781eb2f383d477357c
+  Starscream: 4bb2f9942274833f7b4d296a55504dcfc7edb7b0
+
+PODFILE CHECKSUM: 56f62aafa4634289441c31861d988ecec03ac0a5
+
+COCOAPODS: 1.9.0.beta.2
